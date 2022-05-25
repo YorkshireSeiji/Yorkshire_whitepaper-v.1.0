@@ -1,2 +1,2 @@
-# Yorkshire_whitepaper-v.1.0
+# Yorkshire_Whitepaper-v.1.0
 Grrrr..
